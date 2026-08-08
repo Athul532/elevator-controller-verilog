@@ -1,2 +1,2 @@
-# elevator-controller-verilog
-FSM-based Elevator Controller designed and implemented using Verilog HDL with testbench verification and RTL schematic generation.
+elevator-controller
+FSM-based Elevator Controller using Verilog HDL, developed during my Skillentrix internship. Includes RTL design, testbench verification, simulation waveform, and RTL schematic.
